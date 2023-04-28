@@ -1,6 +1,6 @@
 ---
 title: Our place
-layout: template
+layout: default
 filename: ourplace.md
 permalink: /ourplace/
 --- 
