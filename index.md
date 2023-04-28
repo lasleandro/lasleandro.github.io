@@ -1,6 +1,6 @@
 ---
 title: About me
-layout: template
+layout: default
 filename: index.md
 --- 
 
