@@ -6,8 +6,8 @@ permalink: /gallery/
 --- 
 
 
-![Neuron vs city](/figs/citiesandneurons3.jpg "Neuron vs city")
+![Neuron vs city](/docs/assets/citiesandneurons3.jpg "Neuron vs city")
 
 
 
-![Neurons vs cosmic large scale structure](/figs/image_9066e-Brain-Universe.jpg "Neurons vs cosmic large scale structure")
+![Neurons vs cosmic large scale structure](/docs/assets/image_9066e-Brain-Universe.jpg "Neurons vs cosmic large scale structure")
