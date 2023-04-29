@@ -1,5 +1,5 @@
 ---
-title: Galeria
+title: Gallery
 layout: default
 filename: gallery.md
 permalink: /gallery/
