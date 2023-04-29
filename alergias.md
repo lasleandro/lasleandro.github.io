@@ -2,6 +2,8 @@
 layout: default
 filename: alergias.md
 permalink: /alergias/
+show_in_nav: false
+published: true
 --- 
 
 # Alergias
