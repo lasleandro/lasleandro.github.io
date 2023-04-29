@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Emergências médicas - alergias
 filename: alergias.md
 permalink: /alergias/
 show_in_nav: false
-published: true
+published: false
 --- 
 
 # Alergias
