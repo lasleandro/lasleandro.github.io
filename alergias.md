@@ -25,7 +25,7 @@ published: false
 
 <br><br>
 
-### Antiinflamatórios
+### Antiinflamatórios/analgésicos
 - Não posso tomar anti-inflamatórios inibidores de cox 1.
 
 - Anti-inflamatórios inibidores fortes da cox 1 e que devem causar alergia mais grave (não posso tomar)
@@ -61,6 +61,15 @@ published: false
 
 <br><br>
 
+### Contrastes
+- Já houve reação cutânea mediante uso de contraste intravenoso.
+
+<br><br>
+
+### Alimentos
+- Frutos do mar em geral
+
+<br><br>
 # Remédios de uso contínuo
 
 - Colchicina (para tratar "Febre familiar do mediterrâneo", uma síndrome autoinflamatória genética)
